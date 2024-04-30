@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavHostController</string>
+    <string name="back_button">back buttong</string>
+</resources>
