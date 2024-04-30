@@ -55,6 +55,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
+    implementation ("androidx.fragment:fragment-ktx:1.3.2")
     implementation(libs.androidx.ui)
     implementation ("androidx.navigation:navigation-compose:2.5.3")
     implementation(libs.androidx.ui.graphics)
