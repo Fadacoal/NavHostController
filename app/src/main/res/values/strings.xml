@@ -1,30 +1,30 @@
 <resources>
     <string name="app_name">NavHostController</string>
-    <string name="back_button">back buttong</string>
+    <string name="back_button">back button </string>
     <string name="vanilla"> vanilla </string>
     <string name="chocolate"> chocolate </string>
     <string name="red_velvet"> red velvet </string>
     <string name="salted_caramel"> salted caramel </string>
     <string name="coffee"> coffee </string>
-    <string name="one_cupcake"></string>
-    <string name="six_cupcakes"></string>
-    <string name="twelve_cupcakes"></string>
-    <string name="choose_flavor"></string>
-    <string name="choose_pickup_date"></string>
-    <string name="order_summary"></string>
-    <string name="choose_flavor"></string>
-    <string name="choose_pickup_date"></string>
-    <string name="order_summary"></string>
-    <string name="cancel"></string>
-    <string name="send"></string>
-    <string name="pickup_date"></string>
-    <string name="flavor"></string>
-    <string name="quantity"></string>
-    <string name="new_cupcake_order"></string>
-    <string name="order_details"></string>
+    <string name="one_cupcake"> one cupcake </string>
+    <string name="six_cupcakes"> six cupcakes </string>
+    <string name="twelve_cupcakes"> twelve cupcakes </string>
+    <string name="choose_flavor"> choose flavor </string>
+    <string name="choose_pickup_date"> choose pickup_date</string>
+    <string name="order_summary"> order summary </string>
+    <string name="cancel"> Cancel </string>
+    <string name="next"> next </string>
+    <string name="send"> send </string>
+    <string name="pickup_date"> pickup date </string>
+    <string name="flavor"> flavor </string>
+    <string name="quantity"> quantity </string>
+    <string name="new_cupcake_order"> new cupcake order </string>
+    <string name="order_details"> order details </string>
+    <string name="subtotal_price"> subtotal price </string>
+    <string name="order_cupcakes"> order cupcakes </string>
     <plurals name="cupcakes">
-        <item quantity="one">%d cupcake</item>
-        <item quantity="other">%d cupcakes</item>
+        <item quantity="one"> %d cupcake </item>
+        <item quantity="other"> %d cupcakes </item>
     </plurals>
 
 </resources>
