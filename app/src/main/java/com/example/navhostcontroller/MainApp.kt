@@ -36,6 +36,8 @@ import com.example.navhostcontroller.ui.SelectOptionScreen
 import com.example.navhostcontroller.ui.StartOrderScreen
 
 enum class CupcakeScreen(@StringRes val title: Int) {
+
+    //something
     Start(title = R.string.app_name),
     Flavor(title = R.string.choose_flavor),
     Pickup(title = R.string.choose_pickup_date),
